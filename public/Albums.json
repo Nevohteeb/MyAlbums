@@ -3,98 +3,98 @@
         "artist": "Sleep Token",
         "album_name": "Take Me Back To Eden",
         "release_year": 2023,
-        "cover_image": "/public/album_img/SleepToken.webp",
+        "cover_image": "./album_img/SleepToken.webp",
         "description": "Sleep Token's mesmerizing blend of metal, pop, and ambient soundscapes takes you on a journey through lush atmospheres and emotive vocals."
     },
     {
         "artist": "Killswitch Engage",
         "album_name": "Alive or Just Breathing",
         "release_year": 2002,
-        "cover_image": "/public/album_img/Killswitch.webp",
+        "cover_image": "./album_img/Killswitch.webp",
         "description": "Killswitch Engage's groundbreaking album blends hardcore energy with melodic metal, featuring powerful vocals and intense guitar riffs."
     },
     {
         "artist": "Tool",
         "album_name": "Lateralus",
         "release_year": 2001,
-        "cover_image": "/public/album_img/Tool.webp",
+        "cover_image": "./album_img/Tool.webp",
         "description": "Tool's progressive metal masterpiece explores complex rhythms, intricate guitar work, and thought-provoking lyrics."
     },
     {
         "artist": "Meshuggah",
         "album_name": "Obzen",
         "release_year": 2008,
-        "cover_image": "/public/album_img/Meshuggah.webp",
+        "cover_image": "./album_img/Meshuggah.webp",
         "description": "Meshuggah's 'Obzen' delivers brutal, precise, and highly technical metal, showcasing their signature polyrhythmic style."
     },
     {
         "artist": "Gojira",
         "album_name": "From Mars to Sirius",
         "release_year": 2005,
-        "cover_image": "/public/album_img/Gojira.webp",
+        "cover_image": "./album_img/Gojira.webp",
         "description": "Gojira's 'From Mars to Sirius' combines heavy grooves, environmental themes, and dynamic songwriting for a powerful metal experience."
     },
     {
         "artist": "Opeth",
         "album_name": "Blackwater Park",
         "release_year": 2001,
-        "cover_image": "/public/album_img/Opeth.webp",
+        "cover_image": "./album_img/Opeth.webp",
         "description": "Opeth's 'Blackwater Park' seamlessly blends death metal with progressive rock, featuring intricate compositions and haunting melodies."
     },
     {
         "artist": "Korn",
         "album_name": "Follow the Leader",
         "release_year": 1998,
-        "cover_image": "/public/album_img/Korn.webp",
+        "cover_image": "./album_img/Korn.webp",
         "description": "Korn's influential nu-metal album 'Follow the Leader' is known for its heavy riffs, dark themes, and aggressive energy."
     },
     {
         "artist": "Mastodon",
         "album_name": "Crack the Skye",
         "release_year": 2009,
-        "cover_image": "/public/album_img/Mastodon.webp",
+        "cover_image": "./album_img/Mastodon.webp",
         "description": "Mastodon's 'Crack the Skye' is a progressive metal epic, weaving intricate storytelling with powerful musicianship and unique concepts."
     },
     {
         "artist": "Lamb of God",
         "album_name": "Ashes of the Wake",
         "release_year": 2004,
-        "cover_image": "/public/album_img/LambOfGod.webp",
+        "cover_image": "./album_img/LambOfGod.webp",
         "description": "Lamb of God's 'Ashes of the Wake' is a fierce, politically charged metal album with relentless aggression and precise instrumentation."
     },
     {
         "artist": "System of a Down",
         "album_name": "Toxicity",
         "release_year": 2001,
-        "cover_image": "/public/album_img/SOAD.webp",
+        "cover_image": "./album_img/SOAD.webp",
         "description": "System of a Down's 'Toxicity' blends metal, punk, and alternative rock with socially conscious lyrics and dynamic musical arrangements."
     },
     {
         "artist": "Sublime",
         "album_name": "40oz to Freedom",
         "release_year": 1992,
-        "cover_image": "/public/album_img/Sublime.webp",
+        "cover_image": "./album_img/Sublime.webp",
         "description": "Sublime's '40oz to Freedom' combines ska, punk, and reggae influences, delivering a laid-back yet energetic sound."
     },
     {
         "artist": "Dream Theater",
         "album_name": "Octavarium",
         "release_year": 2005,
-        "cover_image": "/public/album_img/DreamTheatre.webp",
+        "cover_image": "./album_img/DreamTheatre.webp",
         "description": "Dream Theater's 'Octavarium' is a progressive metal tour de force, showcasing the band's technical prowess and complex compositions."
     },
     {
         "artist": "Deftones",
         "album_name": "White Pony",
         "release_year": 2000,
-        "cover_image": "/public/album_img/Deftones.webp",
+        "cover_image": "./album_img/Deftones.webp",
         "description": "Deftones' 'White Pony' blends alternative metal with dreamy, atmospheric elements, creating a unique and influential sound."
     },
     {
         "artist": "A Perfect Circle",
         "album_name": "Thirteenth Step",
         "release_year": 2003,
-        "cover_image": "/public/album_img/APC.webp",
+        "cover_image": "./album_img/APC.webp",
         "description": "A Perfect Circle's 'Thirteenth Step' offers a haunting and melodic exploration of addiction and recovery through alternative rock."
     }
 ]
